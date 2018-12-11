@@ -1,5 +1,6 @@
-numpy==1.13.1
-matplotlib==2.0.2 
-gwpy==0.12.0
-pycbc==1.13.2
+Py2
+numpy
+matplotlib
+gwpy
+pycbc
 lalsuite
