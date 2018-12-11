@@ -1,6 +1,6 @@
 dependencies:
   - matplotlib
-  -gwpy
+  - gwpy
   - numpy
   - pip
   - pip:
